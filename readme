@@ -1,2 +1,8 @@
 This Repository is created to teach the newbies how to use Git and GitHub.
+<<<<<<< HEAD
 This is a place where they can apply their knowledge of Git and GitHub, that they have learned from various courses available on the Internet.
+=======
+This is a place where they can apply their knowledge of Git and GitHub, that they have learned from various courses available online.
+I've added a new line to this file.
+Added another line to teach about remotes, push, pull.
+>>>>>>> 2aaee367c8b439bd8b53bcfa543bf06a068411ca
